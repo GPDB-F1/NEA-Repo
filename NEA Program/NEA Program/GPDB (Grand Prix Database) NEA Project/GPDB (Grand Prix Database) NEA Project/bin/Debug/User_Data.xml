@@ -1,0 +1,18 @@
+<Users>
+  <User>
+    <User_Firstname>Test</User_Firstname>
+    <User_Lastname>Auser</User_Lastname>
+    <User_Password>0Gvj3+iVyILUhAV53BtJ6Q==c02339e2a3e6211948fd3f73374083b60b5e571c5b67b3f404a437bac987e0cf</User_Password>
+    <User_Email>test@auser.com</User_Email>
+    <Username>UserA1</Username>
+    <User_PhoneNum>07485926138</User_PhoneNum>
+  </User>
+  <User>
+    <User_Firstname>Test</User_Firstname>
+    <User_Lastname>Buser</User_Lastname>
+    <User_Password>dTu1NQB9/Su0DUTo0NHNMg==81e1df544d5a006133dd7145100ce2b93e2b711dc514a22da7e8f9fcac9cce11</User_Password>
+    <User_Email>test@buser.com</User_Email>
+    <Username>UserB2</Username>
+    <User_PhoneNum>07645982564</User_PhoneNum>
+  </User>
+</Users>
